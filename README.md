@@ -1,6 +1,15 @@
 # Massive Translator
 
-This is the only way to enable free & no-enviroment-changing massive machine translation more than Google translation API or anything.
+This is the only way to enable
+* free
+* no-enviroment-changing
+* massive more than Google translation API or anything.
+
+machine translation.
+
+Using:
+  * Google Colab
+  * Argos Translation
 
 ## How to use
 * Download `Translator.ipynb`.
